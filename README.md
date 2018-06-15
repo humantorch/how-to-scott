@@ -1,4 +1,6 @@
 # How To Scott
+
+###### current revision: 15.6.18
 	
 ## What is this?
 The point of this README is to introduce myself and give you an idea of how I think, how I work and answer some questions you might have about me. This is a living document so it ~~may~~ will change over time as necessary.
