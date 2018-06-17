@@ -3,7 +3,7 @@
 ###### current revision: 17.6.18
 	
 ## What's all this then?
-The point of this README is to introduce myself and give you an idea of how I think, how I work and answer some questions you might have about me. This is a living document so it ~~may~~ will change over time as necessary.
+The point of this README is to introduce myself and give you an idea of how I think, how I work and answer some questions you might have about me. This is a living document so it ~~may~~ will change over time as necessary. Since it's on Github if you work with me and think something needs to be added/removed/changed by all means g'head and submit a PR. Keeping this in the open is intentional. 
 
 ## What is this not?
 1. This is not going to lay out my expectations of you 
@@ -22,7 +22,7 @@ In my younger days I was highly extroverted but as I've gotten older I've found 
 
 My technical background is primarily in front end development in the advertising agency industry. I’ve been in web dev since 2001 or so and though I started as a designer I learned two things early on: I _sucked_ at design and I _loved_ coding. Over the last 7-ish years I've transitioned from pure development IC roles into hybrid developer/manager roles and now probably haven't written a releaseable line of code since 2015. My last role before adidas was as a Technical Director in a digital production shop.
 
-In the sense of being a T-shaped person I have broad (but shallower) experience in backend development, CI tools, 2 & 3D animation, video production, project management, and a bunch of other various and sundry technologies.
+In the sense of being a [T-shaped person](https://www.hrzone.com/hr-glossary/what-are-t-shaped-skills) I have broad (but shallower) experience in backend development, CI tools, 2 & 3D animation, video production, project management, and a bunch of other various and sundry technologies.
 
 There is plenty for me to learn from you and I will bring plenty for you to learn from. It’s going to be great!
 
@@ -74,7 +74,14 @@ All of that said, if there is something that is urgent that we need to talk abou
 ## What (I think) I do well
 
 1. Context, not control. I will rarely – if ever – outright _tell_ you what to do.
+1. Understand our customers' needs and pivot quickly to adapt our strategies when they're not aligned. 
+1. Avoid micromanagement. 
 
 ## What (I think) I don't do well
 
 1. I have been known to take "context, not control" to an extreme and not stepped in to provide more direction when it's been needed.
+1. Write code. This may sound strange coming from someone in technical leadership but I moved out of full-time development almost half a decade ago and though I dabble with some hobby projects and try to keep up with current practices chances are you know infinitely more about writing good applications than I do. 
+
+## TODO
+
+Turn this document into	a bite-sized presentation covering high-level bits and refer to here for more detail. 
