@@ -71,6 +71,18 @@ Feel free to send me topics you want to discuss in our 1-1 ahead of time via Sla
 
 All of that said, if there is something that is urgent that we need to talk about, don’t wait for the next 1-1. **Let me know ASAP.**
 
+## Performance Management
+
+Unofficially I operate under a Green-Yellow-Red framework for keeping track of how you're doing. In short:
+
+* **Green:** you're doing a great job and I'm happy with your level of performance in our team. I'd be thrilled to have you work here like this forever. 
+* **Yellow:** while you're still an effective member of our team there's something about the way you're doing things that is - in the long run - unsustainable. We'll work together to identify what this is and how we can correct it. 
+* **Red:** a more serious, critical aspect of your workflow has been identified and an immediate correction is going to be required for you to remain a part of the team. We'll work together to identify, plot a course correction, and a timebox for resolving this (commonly referred to as a "PIP").
+
+*Important:* a change of colour will never be a surprise to you. If you aren't sure where you stand here, if I've not explicitly communicated anything to you _in writing_ you can safely assume Green. Always feel free to ask me if you're still unsure, I'm committed to never misleading you on this.
+
+*Also Important:* going either Yellow or Red are both absolutely recoverable situations and that will be my goal as a part of the correction process. We're human beings, we have ebbs and flows in our lives.
+
 ## What (I think) I do well
 
 1. Context, not control. I will rarely – if ever – outright _tell_ you what to do.
