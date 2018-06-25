@@ -36,15 +36,28 @@ Whew. More than enough about me. Let’s talk about us.
 
 ...in that order.
 
+### Sounds great but what does that actually _mean_?
+
+1. People
+	* I'm obsessive about the "Human" side of "Human Resources." Every person in our organization is a living, breathing, complex individual with their own brand of personality and lifestyle. This also means I have _zero_ tolerance for any kind of harassment on grounds of sex, race, orientation, gender identity, etc. _Zero._
+1. Products
+	+ As adidas employees we need to be _obsessive_ about the quality of the products we're responsible for. Working in digital is exciting because we have the power to completely shape the way that adidas is viewed all around the world. 
+1. Process
+	+ We're a huge company and it's easy to get bogged down in the minutae of how we get things done. Part of why you're here is because you're an expert in your own field – speaking up about ways you see to make our work better is not only encouraged... it's practically mandatory.
+
 ## What do I do in regards to you?
 I do a lot of things around this place and wear a lot of different hats from day to day. When it comes to you and your work here I see my role as having two key elements to it:
 
-1. Attract, hire, and retain world-class talent. That's you, that's why you're reading this.
+1. Attract, hire, and retain the best people possible. That's you, that's why you're reading this.
 1. Provide context for the work you're doing.
 
 #### "Wait... provide context? What does that even mean?"
 
 At any given moment you should be able to look at a task you're doing and know how it fits into the larger overall organizational OKRs, goals, and priorities. This means that if what you're doing feels like pointless busywork or a waste of time then **I haven't done my job correctly** in either making sure you understand that context and/or ensuring that you're actually working on something important. If you ever find yourself in this situation you'd be doing me a huge favour by letting me know.
+
+## What else do I do here?
+
+Outside of being your manager I do a bunch of other things around the office. As of this writing I'm currently involved in helping set and maintain our organizational [OKRs](https://en.wikipedia.org/wiki/OKR), taking a deeper look at our various hosting infrastructures and platforms looking for improvements, and helping head up an initiative to increase adidas.com page loading speed across the entire website. These other areas of my responsibility can be very fluid and change regularly – if you ever want to know what I'm currently spending my time on please feel free to ask!
 
 ## Communication
 I bias heavily towards transparency and candor. You can ask me anything you want and I will answer to the best of my ability. Sometimes I won't be able to speak about something due to confidentiality or other similar concerns but otherwise you will get my honest opinion about whatever you ask. I will never lie to or mislead you. adidas will not ask me to and if they ever did I would not agree to do so.
@@ -82,6 +95,8 @@ Unofficially I operate under a Green-Yellow-Red framework for keeping track of h
 *Important:* a change of colour will never be a surprise to you. If you aren't sure where you stand here, if I've not explicitly communicated anything to you _in writing_ you can safely assume Green. Always feel free to ask me if you're still unsure, I'm committed to never misleading you on this.
 
 *Also Important:* going either Yellow or Red are both absolutely recoverable situations and that will be my goal as a part of the correction process. We're human beings, we have ebbs and flows in our lives.
+
+*Repeated disclaimer:* This is unofficial in regards to adidas standard HR practices.
 
 ## What (I think) I do well
 
