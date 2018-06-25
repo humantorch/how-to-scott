@@ -1,6 +1,6 @@
 # How To Scott
 
-###### current revision: 17.6.18
+###### current revision: 25.6.18
 	
 ## What's all this then?
 The point of this README is to introduce myself and give you an idea of how I think, how I work and answer some questions you might have about me. This is a living document so it ~~may~~ will change over time as necessary. Since it's on Github if you work with me and think something needs to be added/removed/changed by all means g'head and submit a PR. Keeping this in the open is intentional. 
