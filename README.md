@@ -1,6 +1,6 @@
 # How To Scott
 
-###### current revision: 25.6.18
+###### current revision: 02.07.18
 	
 ## What's all this then?
 The point of this README is to introduce myself and give you an idea of how I think, how I work and answer some questions you might have about me. This is a living document so it ~~may~~ will change over time as necessary. Since it's on Github if you work with me and think something needs to be added/removed/changed by all means g'head and submit a PR. Keeping this in the open is intentional. 
@@ -13,7 +13,9 @@ The point of this README is to introduce myself and give you an idea of how I th
 ## Important adidas-related note
 This is *unofficial* in regards to adidas standard HR practices. Nothing in this document supercedes or replaces any of our standard performance-management tools (reviews, 90 day plans, MyBest, etc.).
 
-Also, everything here makes no distinction between Internal and External employees. Regardless of internal/external employment type my goal is to treat everyone the same way (and you'd be doing me a huge favour by letting me know when it feels like I'm not).
+Also, everything here makes no distinction between Internal and External* employees. Regardless of internal/external employment type my goal is to treat everyone the same way (and you'd be doing me a huge favour by letting me know when it feels like I'm not).
+
+_*For the non-Germans in the audience, "Internal" and "External" employee classifications are basically `Internal = full time/permanenent` and `External = temp/contract/freelancer`. It's a German labour regulation thing._
 
 ## Who am I?
 I live in Erlangen with my wife (Shannie). I was born and grew up in the Edmonton, Canada area but since the early 2000s I've lived in the USA, the Netherlands, Sweden, and now Germany. I’m a sports fan, comic book geek, video game player, electronics tinkerer, hobbyist athlete and also drink more craft beer than may be necessary.
