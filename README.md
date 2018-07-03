@@ -41,7 +41,7 @@ Whew. More than enough about me. Let’s talk about us.
 ### Sounds great but what does that actually _mean_?
 
 1. People
-	* I'm obsessive about the "Human" side of "Human Resources." Every person in our organization is a living, breathing, complex individual with their own brand of personality and lifestyle. This also means I have _zero_ tolerance for any kind of harassment on grounds of sex, race, orientation, gender identity, etc. _Zero._
+	* I''m deeply invested in the "Human" side of "Human Resources." Every person in our organization is a living, breathing, complex individual with their own brand of personality and lifestyle. This also means I have _zero_ tolerance for any kind of harassment on grounds of sex, race, orientation, religion, gender identity, etc. _Zero._
 1. Products
 	+ As adidas employees we need to be _obsessive_ about the quality of the products we're responsible for. Working in digital is exciting because we have the power to completely shape the way that adidas is viewed all around the world. 
 1. Process
@@ -102,7 +102,7 @@ Unofficially I operate under a Green-Yellow-Red framework for keeping track of h
 
 ## What (I think) I do well
 
-1. Context, not control. I will rarely – if ever – outright _tell_ you what to do.
+1. Context, not control. I will rarely – if ever – outright _tell_ you what to do. I'm not interested in giving you _orders,_ I'm much more interested in giving you _control._ Take ten minutes to [watch this video](https://www.youtube.com/watch?v=OqmdLcyES_Q) for a better idea of what I mean.
 1. Understand our customers' needs and pivot quickly to adapt our strategies when they're not aligned. 
 1. Avoid micromanagement. 
 
