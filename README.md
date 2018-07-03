@@ -1,6 +1,6 @@
 # How To Scott
 
-###### current revision: 02.07.18
+###### current revision: 03.07.18
 	
 ## What's all this then?
 The point of this README is to introduce myself and give you an idea of how I think, how I work and answer some questions you might have about me. This is a living document so it ~~may~~ will change over time as necessary. Since it's on Github if you work with me and think something needs to be added/removed/changed by all means g'head and submit a PR. Keeping this in the open is intentional. 
@@ -102,7 +102,7 @@ Unofficially I operate under a Green-Yellow-Red framework for keeping track of h
 
 ## What (I think) I do well
 
-1. Context, not control. I will rarely – if ever – outright _tell_ you what to do. I'm not interested in giving you _orders,_ I'm much more interested in giving you _control._ Take ten minutes to [watch this video](https://www.youtube.com/watch?v=OqmdLcyES_Q) for a better idea of what I mean.
+1. Context, not control. I will rarely – if ever – outright _tell_ you what to do. I'm not interested in giving you _orders,_ I'm much more interested in making sure you have _ownership._ Take ten minutes to [watch this video](https://www.youtube.com/watch?v=OqmdLcyES_Q) for a better idea of what I mean.
 1. Understand our customers' needs and pivot quickly to adapt our strategies when they're not aligned. 
 1. Avoid micromanagement. 
 
