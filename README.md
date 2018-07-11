@@ -41,7 +41,7 @@ Whew. More than enough about me. Let’s talk about us.
 ### Sounds great but what does that actually _mean_?
 
 1. People
-	* I''m deeply invested in the "Human" side of "Human Resources." Every person in our organization is a living, breathing, complex individual with their own brand of personality and lifestyle. This also means I have _zero_ tolerance for any kind of harassment on grounds of sex, race, orientation, religion, gender identity, etc. _Zero._
+	* I'm deeply invested in the "Human" side of "Human Resources." Every person in our organization is a living, breathing, complex individual with their own brand of personality and lifestyle. This also means I have _zero_ tolerance for any kind of harassment on grounds of sex, race, orientation, religion, gender identity, etc. _Zero._
 1. Products
 	+ As adidas employees we need to be _obsessive_ about the quality of the products we're responsible for. Working in digital is exciting because we have the power to completely shape the way that adidas is viewed all around the world. 
 1. Process
@@ -110,6 +110,7 @@ Unofficially I operate under a Green-Yellow-Red framework for keeping track of h
 
 1. I have been known to take "context, not control" to an extreme and not stepped in to provide more direction when it's been needed.
 1. Write code. This may sound strange coming from someone in technical leadership but I moved out of full-time development almost half a decade ago and though I dabble with some hobby projects and try to keep up with current practices chances are you know infinitely more about writing good applications than I do. 
+2. Say "no" to requests. This is something I've worked hard to correct but is still a trap I fall into. I've gotten better at delegating and such but is still an ongoing growth process.
 
 ## TODO
 
