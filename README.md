@@ -1,6 +1,6 @@
 # How To Scott
 
-###### current revision: 03.07.18
+###### current revision: 22.07.18
 	
 ## What's all this then?
 The point of this README is to introduce myself and give you an idea of how I think, how I work and answer some questions you might have about me. This is a living document so it ~~may~~ will change over time as necessary. Since it's on Github if you work with me and think something needs to be added/removed/changed by all means g'head and submit a PR. Keeping this in the open is intentional. 
@@ -112,6 +112,6 @@ Unofficially I operate under a Green-Yellow-Red framework for keeping track of h
 1. Write code. This may sound strange coming from someone in technical leadership but I moved out of full-time development almost half a decade ago and though I dabble with some hobby projects and try to keep up with current practices chances are you know infinitely more about writing good applications than I do. 
 2. Say "no" to requests. This is something I've worked hard to correct but is still a trap I fall into. I've gotten better at delegating and such but is still an ongoing growth process.
 
-## TODO
+## TL;DR
 
-Turn this document into	a bite-sized presentation covering high-level bits and refer to here for more detail. 
+A bite-size version of this entire thing is [available on Google Docs](https://goo.gl/xJgdrj). Have a gander if you wanna.
