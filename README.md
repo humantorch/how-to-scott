@@ -1,6 +1,6 @@
 # How To Scott
 
-###### current revision: 22.07.18
+###### current revision: 20.01.18
 	
 ## What's all this then?
 The point of this README is to introduce myself and give you an idea of how I think, how I work and answer some questions you might have about me. This is a living document so it ~~may~~ will change over time as necessary. Since it's on Github if you work with me and think something needs to be added/removed/changed by all means g'head and submit a PR. Keeping this in the open is intentional. 
@@ -10,19 +10,17 @@ The point of this README is to introduce myself and give you an idea of how I th
 1. This is not going to say how I think any particular project should be run.
 1. This is not going to tell you how to do your job.
 
-## Important adidas-related note
-This is *unofficial* in regards to adidas standard HR practices. Nothing in this document supercedes or replaces any of our standard performance-management tools (reviews, 90 day plans, MyBest, etc.).
+## Important Soapbox-related note
+This is *unofficial* in regards to Soapbox standard HR practices. Nothing in this document supercedes or replaces any of our standard performance-management tools.
 
-Also, everything here makes no distinction between Internal and External* employees. Regardless of internal/external employment type my goal is to treat everyone the same way (and you'd be doing me a huge favour by letting me know when it feels like I'm not).
-
-_*For the non-Germans in the audience, "Internal" and "External" employee classifications are basically `Internal = full time/permanent` and `External = temp/contract/freelancer`. It's a German labour regulation thing._
+Also, everything here makes no distinction between temporary and permanent employees, on-site or remote. Regardless of type of employment type my goal is to treat everyone the same way (and you'd be doing me a huge favour by letting me know when it feels like I'm not).
 
 ## Who am I?
-I live in Erlangen with my wife (Shannie). I was born and grew up in the Edmonton, Canada area but since the early 2000s I've lived in the USA, the Netherlands, Sweden, and now Germany. I’m a sports fan, comic book geek, video game player, electronics tinkerer, hobbyist athlete and also drink more craft beer than may be necessary.
+I live in downtown Toronto with my wife (Shannie). I was born and grew up in the Edmonton area but since the early 2000s I've lived in the USA, the Netherlands, Sweden, Germany, and now back to Canada. I’m a sports fan, comic book geek, video game player, electronics tinkerer, hobbyist athlete and also drink more craft beer than may be necessary.
 
 In my younger days I was highly extroverted but as I've gotten older I've found myself becoming more of an introvert.
 
-My technical background is primarily in front end development in the advertising agency industry. I’ve been in web dev since 2001 or so and though I started as a designer I learned two things early on: I _sucked_ at design and I _loved_ coding. Over the last 7-ish years I've transitioned from pure development IC roles into hybrid developer/manager roles and now probably haven't written a releaseable line of code since 2015. My last role before adidas was as a Technical Director in a digital production shop.
+My technical background is primarily in front end development in the advertising agency industry. I’ve been in web dev since 2001 or so and though I started as a designer I learned two things early on: I _sucked_ at design and I _loved_ coding. Over the last 7-ish years I've transitioned from pure development IC roles into hybrid developer/manager roles and now exist almost entirely in the "management" sphere (though I do what I can to make sure my coding skills don't _completely_ atrophy). My last role before Soapbox was as a Technical Director in the marketing/branding group at adidas.com.
 
 In the sense of being a [T-shaped person](https://www.hrzone.com/hr-glossary/what-are-t-shaped-skills) I have broad (but shallower) experience in backend development, CI tools, 2 & 3D animation, video production, project management, and a bunch of other various and sundry technologies.
 
@@ -43,9 +41,9 @@ Whew. More than enough about me. Let’s talk about us.
 1. People
 	* I'm deeply invested in the "Human" side of "Human Resources." Every person in our organization is a living, breathing, complex individual with their own brand of personality and lifestyle. This also means I have _zero_ tolerance for any kind of harassment on grounds of sex, race, orientation, religion, gender identity, etc. _Zero._
 1. Products
-	+ As adidas employees we need to be _obsessive_ about the quality of the products we're responsible for. Working in digital is exciting because we have the power to completely shape the way that adidas is viewed all around the world. 
+	+ As Soapbox employees we need to be _obsessive_ about the quality of the products we're responsible for. Working in digital is exciting because we have the power to completely shape the way that Soapbox is viewed all around the world. 
 1. Process
-	+ We're a huge company and it's easy to get bogged down in the minutae of how we get things done. Part of why you're here is because you're an expert in your own field – speaking up about ways you see to make our work better is not only encouraged... it's practically mandatory.
+	+ We're not a huge company but it can still be super easy to get bogged down in the minutae of how we get things done. Part of why you're here is because you're an expert in your own field – speaking up about ways you see to make our work better is not only encouraged... it's pretty much mandatory.
 
 ## What do I do in regards to you?
 I do a lot of things around this place and wear a lot of different hats from day to day. When it comes to you and your work here I see my role as having two key elements to it:
@@ -59,18 +57,18 @@ At any given moment you should be able to look at a task you're doing and know h
 
 ## What else do I do here?
 
-Outside of being your manager I do a bunch of other things around the office. As of this writing I'm currently involved in helping set and maintain our organizational [OKRs](https://en.wikipedia.org/wiki/OKR), taking a deeper look at our various hosting infrastructures and platforms looking for improvements, and helping head up an initiative to increase adidas.com page loading speed across the entire website. These other areas of my responsibility can be very fluid and change regularly – if you ever want to know what I'm currently spending my time on please feel free to ask!
+Outside of being your manager I'm sure I'll do a bunch of other things around the office. As of this writing alongside of being a people manager for six developers I'm also the acting Tech Lead for the _Expand_ Team though as I learn more and establish myself here at Soapbox I'm sure my list of activities and involvements will grow and evolve – if you ever want to know what I'm currently spending my time on please feel free to ask!
 
 ## Communication
-I bias heavily towards transparency and candor. You can ask me anything you want and I will answer to the best of my ability. Sometimes I won't be able to speak about something due to confidentiality or other similar concerns but otherwise you will get my honest opinion about whatever you ask. I will never lie to or mislead you. adidas will not ask me to and if they ever did I would not agree to do so.
+I bias heavily towards transparency and candor. You can ask me anything you want and I will answer to the best of my ability. Sometimes I won't be able to speak about something due to confidentiality or other similar concerns but otherwise you will get my honest opinion about whatever you ask. I will never lie to or mislead you. Soapbox will not ask me to and if they ever did I would not agree to do so.
 
-My own internal ranking for importance/usefulness of communication methods is roughly: in person, Slack, WhatsApp, [giant gap] email [grand-canyon-sized gap], Skype for Business. Note that I didn't list phone calls here: my phone rings so rarely that my immediate assumption when it does is that something is an emergency. I am almost always available on Slack during business hours and I try to respond quickly whenever possible. 
+My own internal ranking for importance/usefulness of communication methods is roughly: in person, Slack, SMS/WhatsApp, [giant gap] email [grand-canyon-sized gap], Any Other Comms Platform. Note that I didn't list phone calls here: my phone rings so rarely that my immediate assumption when it does is that something is an emergency. I am almost always available on Slack during business hours and I try to respond quickly whenever possible. 
 
-One clear way to *not* get a hold of me is to tag me in a Jira ticket. I receive 100+ Jira notifications most days, relying solely on a tag in an issue to make me aware of something is not going to be a shortcut to awesome. If a Jira ticket needs my attention or you want me to be aware of an issue drop me a link to the ticket on Slack.
+One clear way to *not* get a hold of me is to tag me in a ticket (Jira, GitHub, etc.). I receive several hundred ticket update notifications most days, relying solely on a tag in an issue to make me aware of something is not going to be a shortcut to awesome. If a ticket or PR or something needs my attention or you want me to be aware of an issue drop me a link to the ticket on Slack.
 
-There are very few things that I will do at adidas that are more important than talking with you if you need to talk to me. Slack me, email me, drop by my desk, grab time in my calendar. If you don’t find time in my calendar, message me and I’ll make time.
+There are very few things that I will do at Soapbox that are more important than talking with you if you need to talk to me. Slack me, email me, drop by my desk, grab time in my calendar. If you don’t find time in my calendar, message me and I’ll make time.
 
-Sometimes I like to get some work done on evenings and weekends. Assuming it's not marked as urgent if I message you on the weekend **I don't expect you to respond**. I don't expect you to work outside of core business hours unless something has been planned ahead of time (i.e. a site update on a Saturday). I want you to enjoy your life outside of the office so that you're happy, healthy and focused when you are at adidas. The exception to this is if I actually phone you outside of office hours. A phone call means something urgently requires immediate attention.
+Sometimes I like to get some work done on evenings and weekends. Assuming it's not marked as urgent if I message you outside core business hours **I don't expect you to respond**. Typically I'll try to contain any non-urgent communication to the workday but occasionally something may slip through. I don't expect you to work outside of core business hours unless something has been planned ahead of time (i.e. a scheduled feature release on a Saturday). I want you to enjoy your life outside of the office so that you're happy, healthy and focused when you are at Soapbox. The exception to this is if I actually phone you outside of office hours. A phone call means something urgently requires immediate attention.
 
 ## Feedback
 The importance of feedback to me cannot be overstated. I need feedback. You need feedback. We need to make sure that we are regularly communicating feedback candidly because we can’t make good choices if we don’t understand the actual context of the choice.
@@ -98,12 +96,12 @@ Unofficially I operate under a Green-Yellow-Red framework for keeping track of h
 
 *Also Important:* going either Yellow or Red are both absolutely recoverable situations and that will be my goal as a part of the correction process. We're human beings, we have ebbs and flows in our lives.
 
-*Repeated disclaimer:* This is unofficial in regards to adidas standard HR practices.
+*Repeated disclaimer:* This is unofficial in regards to Soapbox standard HR practices.
 
 ## What (I think) I do well
 
 1. Context, not control. I will rarely – if ever – outright _tell_ you what to do. I'm not interested in giving you _orders,_ I'm much more interested in making sure you have _ownership._ Take ten minutes to [watch this video](https://www.youtube.com/watch?v=OqmdLcyES_Q) for a better idea of what I mean.
-1. Understand our customers' needs and pivot quickly to adapt our strategies when they're not aligned. 
+1. Understand our customers' needs and pivot quickly to adapt our strategies when they're not aligned. (Note: since I'm so new to Soapbox this one is going to take me some time to fully grok but I'm working on it!)
 1. Avoid micromanagement. 
 
 ## What (I think) I don't do well
