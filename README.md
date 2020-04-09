@@ -100,7 +100,7 @@ Unofficially I operate under a Green-Yellow-Red framework for keeping track of h
 ## What (I think) I do well
 
 1. Context, not control. I will rarely – if ever – outright _tell_ you what to do. I'm not interested in giving you _orders,_ I'm much more interested in making sure you have _ownership._ Take ten minutes to [watch this video](https://www.youtube.com/watch?v=OqmdLcyES_Q) for a better idea of what I mean.
-1. Understand our customers' needs and pivot quickly to adapt our strategies when they're not 1. aligned. 
+1. Understand our customers' needs and pivot quickly to adapt our strategies when they're not aligned. 
 1. Avoid micromanagement.
 
 ## What (I think) I don't do well
