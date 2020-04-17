@@ -3,7 +3,7 @@
 ###### CURRENT REVISION: 26.03.2020
 
 ## What's all this then?
-The point of this README is to introduce myself and give you an idea of how I think, how I work and answer some questions you might have about me. This is a living document so it may will change over time as necessary. Keeping this in the open is intentional.
+The point of this README is to introduce myself and give you an idea of how I think, how I work and answer some questions you might have about me. This is a living document so it ~may~ will change over time as necessary. Keeping this in the open is intentional.
 
 ## What is this not?
 1. This is not going to lay out my expectations of you
