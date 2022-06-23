@@ -4,7 +4,7 @@
 
 ## What's all this then?
 
-The point of this README is to introduce myself and give you an idea of how I think, how I work and answer some questions you might have about me. This is a living document so it ~may~ will change over time as necessary. Keeping this in the open is intentional.
+This is my version of a "[manager README](https://managerreadme.com)." The point of this README is to introduce myself and give you an idea of how I think, how I work and answer some questions you might have about me. This is a living document so it ~may~ will change over time as necessary. Keeping this in the open is intentional.
 
 ## What is this not?
 
@@ -26,7 +26,7 @@ In my younger days I was highly extroverted but as I've gotten older I've found 
 
 My technical background is primarily in front end development in the advertising agency industry. I’ve been in web dev since 2001 or so and though I started as a designer I learned two things early on: I was _terrible_ at design and I _loved_ coding. Over the last 7-ish years I've transitioned from pure development IC roles into hybrid developer/manager roles and now exist almost entirely in the "management" sphere (though I do what I can to make sure my coding skills don't _completely_ atrophy).
 
-In the sense of being a ~[T-shaped](https://www.hrzone.com/hr-glossary/what-are-t-shaped-skills)~ **[Paint-drip](https://www.facebook.com/notes/373922293851423/)** person I have broad (but shallower) experience in backend development, CI tools, 2 & 3D animation, video production, project management, and a bunch of other various and sundry technologies.
+In the sense of being a [Paint-drip](https://www.facebook.com/notes/373922293851423/) person I have broad (but shallower) experience in backend development, CI tools, 2 & 3D animation, video production, project management, and a bunch of other various and sundry technologies.
 
 There is plenty for me to learn from you and I will bring plenty for you to learn from. It’s going to be great!
 

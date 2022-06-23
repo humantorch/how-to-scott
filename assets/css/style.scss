@@ -6,3 +6,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap');
 
 * {font-family: 'Inconsolata', monospace;}
+
+#project_title, #project_tagline {display: none;}
+
+h1 {
+    font-size: 45px;
+    border-bottom: 1px black solid;
+}
