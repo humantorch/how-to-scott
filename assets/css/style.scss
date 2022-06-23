@@ -5,7 +5,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap');
 
-* {font-family: 'Inconsolata', monospace;}
+* {font-family: 'Inconsolata', monospace !important;}
 
 #project_title, #project_tagline {display: none;}
 
