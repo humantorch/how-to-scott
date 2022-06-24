@@ -4,7 +4,7 @@
 
 ## What's all this then?
 
-This is my version of a "[manager README](https://managerreadme.com)." The point of this README is to introduce myself and give you an idea of how I think, how I work and answer some questions you might have about me. This is a living document so it ~may~ will change over time as necessary. Keeping this in the open is intentional.
+This is my version of a "[manager README](https://managerreadme.com)." The point of this README is to introduce myself and give you an idea of how I think, how I work and answer some questions you might have about me. This is a living document so it <strike>may</strike> will change over time as necessary. Keeping this in the open is intentional.
 
 ## What is this not?
 
