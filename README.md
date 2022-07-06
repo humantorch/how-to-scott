@@ -1,6 +1,8 @@
-# How To Scott
+# A probably more up-to-date (and prettier) version of this document is located at https://prayingmadness.com/post/readme/
 
-###### CURRENT REVISION: 21.04.2022
+## How To Scott
+
+###### <strike>CURRENT REVISION: 21.04.2022</strike>
 
 ## What's all this then?
 
