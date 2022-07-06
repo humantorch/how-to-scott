@@ -1,4 +1,4 @@
-# A probably more up-to-date (and prettier) version of this document is located at https://prayingmadness.com/post/readme/
+# A probably more up-to-date (and prettier) version of this document is located [here](https://prayingmadness.com/post/readme/)
 
 ## How To Scott
 
